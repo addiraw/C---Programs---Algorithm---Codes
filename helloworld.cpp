@@ -9,11 +9,6 @@ using namespace std;
 // where the execution of program begins
 int main() 
 { 
-	int d;
-	// prints hello world 
-	cout<<"Hello World he kya"; 
-	cin>>d;
-	cout<<"sdsd";
-	cin>>d;
+	
 	return 0; 
 } 
