@@ -1,8 +1,23 @@
 #include <stdio.h>
 void main()
-{
-    int a[2][3][2]={1,2,3,4,6,7,7,8,9,11,12};
-    printf("%u and %u",**a,**a+1);
+{  
+// int b,p;
+//    int a=(b=1, p=2);
+//    printf("%u",a);
+
+// int a[]={0,1,2};
+// printf("%u",1[a]);
+
+// int *p;
+// int a = 10;
+// p=&a;
+// printf("%d\n",p);
+// *p=100;
+// printf("%d",*p);
     
     
+    int * p;
+    p=NULL;
+    // p=&x;
+    printf("%d",p);
 }
